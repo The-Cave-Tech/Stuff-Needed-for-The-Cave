@@ -4,7 +4,7 @@ The group shopping list for the cave
 
 ## Big Long Term Items 
 
-- [ ] Ikea Vikedal 229cm tall doors for Ikea Pax (finn.no shows up often and cheap ~500kr each or less)
+- [ ] Ikea Vikedal 229cm tall doors for Ikea Pax (finn.no shows up often and cheap ~500kr each or less, 2-3 more)
 - [X] Bambu Labs AMS 2 (4564kr, from 3dJake.no)
 - [ ] Roller blinds for the windows in the sewing area
 - [ ] Window glass for broken window (~1000kr, found 4 from Finn for 300kr each, trying to get them)
