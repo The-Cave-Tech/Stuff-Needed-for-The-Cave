@@ -10,16 +10,19 @@ The group shopping list for the cave
 - [ ] Window glass for broken window (~1000kr, found 4 from Finn for 300kr each, trying to get them)
 - [ ] New potted plants to replace dead roses
 - [ ] Door for open cabinet in the kitchen (HÖGBO comes in white, need to paint unless we find a black one on finn, 350kr from Ikea)
-- [ ] New power supply for studio PC 1000W or more (often for 1000kr or less on Finn.no)
+- [x] New power supply for studio PC 1000W or more (often for 1000kr or less on Finn.no)
 - [ ] 2L Tefal cooking pot
+- [x] 5.7L Tefal cooking pot
 - [ ] Window with ventilation hole cut in it for smelly room. (Could do it with polycarbonate and a can of a nobel gas)
 - [x] Hp C9406A Yellow/Magenta Print Head for plotter (1028 kr Inky)
 - [ ] Knobs for cabinets (3 for Eket, 3 for kitchenette)
 - [ ] Handles for Ikea Vikedal (6 matching)
-- [ ] New Studio PC for running the TV
-  - [ ] HP or Dell Barebone workstation to match whatever CPUs we raid from somewhere
-  - [ ] 2x16 or more core CPUs
-  - [ ] 128GB (or more) DDR4 ECC
+- [x] New Studio PC for running the TV
+- [ ] New BigBob
+  - [ ] Dell Barebone workstation to match CPUs
+  - [x] 2x16 or more core CPUs (Tobias)
+  - [x] 256GB DDR4 ECC (Tobias)
+  - [x] RTX3080 equivilent (Finn)
   - [ ] High end GPUs (we need an aggregate of 24GB or more VRAM, more is better)
 - [ ] New sound card which doesn't need to be rebooted all of the time
 - [ ] Speakers for the sewing area (Yamaha HS5 or HS8)
