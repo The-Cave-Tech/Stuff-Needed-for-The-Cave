@@ -7,7 +7,7 @@ The group shopping list for the cave
 - [ ] Ikea Vikedal 229cm tall doors for Ikea Pax (finn.no shows up often and cheap ~500kr each or less, 2-3 more)
 - [X] Bambu Labs AMS 2 (4564kr, from 3dJake.no)
 - [ ] Roller blinds for the windows in the sewing area
-- [ ] Window glass for broken window (~1000kr, found 4 from Finn for 300kr each, trying to get them)
+- [ ] Window glass for broken window (~1000kr)
 - [ ] New potted plants to replace dead roses
 - [ ] Door for open cabinet in the kitchen (HÖGBO comes in white, need to paint unless we find a black one on finn, 350kr from Ikea)
 - [x] New power supply for studio PC 1000W or more (often for 1000kr or less on Finn.no)
@@ -18,15 +18,16 @@ The group shopping list for the cave
 - [ ] Knobs for cabinets (3 for Eket, 3 for kitchenette)
 - [ ] Handles for Ikea Vikedal (6 matching)
 - [x] New Studio PC for running the TV
+- [ ] two 60x60 Ikea Metod cabinets for over the fridge.
 - [ ] New BigBob
   - [ ] Dell Barebone workstation to match CPUs
   - [x] 2x16 or more core CPUs (Tobias)
   - [x] 256GB DDR4 ECC (Tobias)
   - [x] RTX3080 equivilent (Finn)
   - [ ] High end GPUs (we need an aggregate of 24GB or more VRAM, more is better)
-- [ ] New sound card which doesn't need to be rebooted all of the time
-- [ ] Speakers for the sewing area (Yamaha HS5 or HS8)
-- [ ] New Amazon Echo for Studio area (required for Amazon AI support)
+- [ ] New sound card which doesn't need to be rebooted all of the time (https://www.thomannmusic.no/behringer_umc1820.htm?gad_source=1&gad_campaignid=1565266214&gbraid=0AAAAADuDMCUgtjI6057Bs-jX9p7j-J7bO&gclid=Cj0KCQiAr5nKBhCpARIsACa_NiP7xQoVEhpDDPQltQWOrbD63HJoAYVrK4VDk0A5kFCEoDxKEYrYekoaArMhEALw_wcB)
+- [x] Speakers for the sewing area (Yamaha HS5 or HS8)
+- [x] New Amazon Echo for Studio area (required for Amazon AI support)
 
 ## Sewing supplies
 
