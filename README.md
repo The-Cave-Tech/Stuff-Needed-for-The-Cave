@@ -16,7 +16,7 @@ The group shopping list for the cave
 - [ ] Window with ventilation hole cut in it for smelly room. (Could do it with polycarbonate and a can of a nobel gas)
 - [x] Hp C9406A Yellow/Magenta Print Head for plotter (1028 kr Inky)
 - [ ] Knobs for cabinets (3 for Eket, 3 for kitchenette)
-- [ ] Handles for Ikea Vikedal (6 matching)
+- [x] Handles for Ikea Vikedal (6 matching) already ordered from ikea
 - [x] New Studio PC for running the TV
 - [ ] two 60x60 Ikea Metod cabinets for over the fridge.
 - [ ] New BigBob
